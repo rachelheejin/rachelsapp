@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My name is Rachel and I like dogs. My app will let me find local dogs that need walking. 
 
 Things you may want to cover:
 
